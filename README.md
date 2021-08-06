@@ -76,7 +76,7 @@ $ sudo apt install curl
 $ bash Phisher.sh
 ```
 
-> - If the link don't show run the **NGROK Stat** using this ling <http://localhost:4040/status>.
+> - If the link don't show run the **NGROK Stat** using this link <http://localhost:4040/status>.
 
 ## Preconfigured Packages
 
